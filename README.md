@@ -8,7 +8,7 @@ one of my most useful shit i have ever made :)
 
 - 2.) Set `Debug` to **`Release`**
 
-- 3.) Configure the bite patterns and offset name you wanna find in **``../DuckiDumper/Public/opts.h``**. 
+- 3.) Configure the byte patterns and offset name you wanna find in **``../DuckiDumper/Public/opts.h``**. 
 
 Config is self-explanatory:: 
 ```cpp
@@ -16,7 +16,7 @@ Config is self-explanatory::
 // if set to "true" it will skip that
 ``` 
 - 4.) Build the DLL with **`Ctrl+Shift+B`**
-- 5.) Inject the dll into the OG Fortnite process and it will log you every single scanned bite pattern you configured. Enjoy :))
+- 5.) Inject the dll into the OG Fortnite process and it will log you every single scanned byte pattern you configured. Enjoy :))
 
 ### Find patterns
 To  find byte patterns get them from [Reboot](https://github.com/Milxnor/Project-Reboot-3.0), [Erbium](https://github.com/plooshi/Erbium) or a Reverse Engineering tool.
