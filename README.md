@@ -8,7 +8,7 @@ one of my most useful shit i have ever made :)
 
 - 2.) Set `Debug` to **`Release`**
 
-- 3.) Configure the byte patterns and offset name you wanna find in **``../DuckiDumper/Public/opts.h``**. 
+- 3.) Configure the byte patterns and offset name you wanna find in **``opts.h``**. 
 
 Config is self-explanatory:: 
 ```cpp
